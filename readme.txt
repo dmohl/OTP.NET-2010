@@ -1,0 +1,1 @@
+This is the original OTP.NET (http://jungerl.cvs.sourceforge.net/jungerl/jungerl/lib/otp.net/) migrated to VS2010.

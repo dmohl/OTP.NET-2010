@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Otp.2010">
+</Property><Property Name="Solution File" Value="C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Otp.2010.sln">
+</Property><Property Name="Date" Value="Sunday, May 02, 2010">
+</Property><Property Name="Time" Value="23:20 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Otp.2010.sln" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Otp.2010.sln">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Otp.csproj" Description="Project file successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Otp.csproj">
+</Event><Event ErrorLevel="0" Project="Otp" Source="AbstractConnection.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\AbstractConnection.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="AbstractNode.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\AbstractNode.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Atom.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Atom.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\BigInteger.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\BigInteger.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Binary.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Binary.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Boolean.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Boolean.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Byte.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Byte.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Char.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Char.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\CloneObject.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\CloneObject.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\DecodeException.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\DecodeException.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Double.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Double.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\ErlangException.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\ErlangException.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Exit.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Exit.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Int.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Int.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\List.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\List.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Long.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Long.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Object.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Object.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Pid.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Pid.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Port.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Port.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\RangeException.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\RangeException.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Ref.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Ref.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Short.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Short.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\String.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\String.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\Tuple.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\Tuple.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\UInt.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\UInt.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\UShort.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\UShort.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="GenericQueue.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\GenericQueue.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Link.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Link.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Links.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Links.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpAuthException.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpAuthException.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpConnection.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpConnection.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpCookedConnection.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpCookedConnection.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpEpmd.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpEpmd.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpException.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpException.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpExternal.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpExternal.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpInputStream.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpInputStream.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpLocalNode.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpLocalNode.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpMbox.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpMbox.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpMsg.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpMsg.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpNode.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpNode.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpNodeStatus.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpNodeStatus.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpOutputStream.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpOutputStream.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpPeer.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpPeer.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpSelf.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpSelf.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpSystem.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpSystem.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="OtpTrace.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpTrace.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="SupportClass.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\SupportClass.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Test.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Test.cs">
+</Event><Event ErrorLevel="0" Project="Otp" Source="App.config" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\App.config">
+</Event><Event ErrorLevel="0" Project="Otp" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Otp" Source="otpdotnet.snk" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\otpdotnet.snk">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Erlang\BigIntegerDoc.html" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Erlang\BigIntegerDoc.html">
+</Event><Event ErrorLevel="0" Project="Otp" Source="release_notes.txt" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\release_notes.txt">
+</Event><Event ErrorLevel="1" Project="Otp" Source="Otp.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Otp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Otp" Source="Otp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OtpTest1" Source="..\OtpTest1\OtpTest1.csproj" Description="Project file successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\OtpTest1.csproj">
+</Event><Event ErrorLevel="0" Project="OtpTest1" Source="..\OtpTest1\Test1.cs" Description="File successfully backed up as C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\Otp\Backup1\Test1.cs">
+</Event><Event ErrorLevel="1" Project="OtpTest1" Source="..\OtpTest1\OtpTest1.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="OtpTest1" Source="..\OtpTest1\OtpTest1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OtpTest1" Source="..\OtpTest1\OtpTest1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Otp.2010.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Otp.2010.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Otp" Source="Otp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="OtpTest1" Source="..\OtpTest1\OtpTest1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

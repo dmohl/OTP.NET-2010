@@ -1,0 +1,15 @@
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\bin\Debug\OtpTest1.exe
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\bin\Debug\OtpTest1.pdb
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\bin\Debug\otp.dll
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\bin\Debug\otp.pdb
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\obj\Debug\OtpTest1.exe
+C:\Users\dmohl\Documents\Visual Studio 2008\Projects\otp.net\OtpTest1\obj\Debug\OtpTest1.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\bin\Debug\OtpTest1.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\bin\Debug\OtpTest1.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\bin\Debug\otp.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\bin\Debug\otp.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\obj\Debug\OtpTest1.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\obj\Debug\OtpTest1.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\otp.net\OtpTest1\bin\Debug\OtpTest1.exe.config
